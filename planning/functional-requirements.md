@@ -1,4 +1,4 @@
-Functional Requirements (HealthApp)
+Functional Requirements (CareU)
 
 **A. Account & Profile**
 
