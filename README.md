@@ -23,12 +23,12 @@ This project follows Agile methodology using Scrum practices:
 ---
 
 ## Project Management Board
-Trello Board: [HealthApp Scrum Board](https://trello.com/invite/b/6996a5f70191ef93ed8bdf1e/ATTI671ce7b470a4f79ef9d5489e02a3b8b9E7FB60E6/preventive-healthcare-and-early-detection)
+Trello Board: [CareU Scrum Board](https://trello.com/invite/b/6996a5f70191ef93ed8bdf1e/ATTI671ce7b470a4f79ef9d5489e02a3b8b9E7FB60E6/preventive-healthcare-and-early-detection)
 
 ---
 
 ## Project Overview
-HealthApp is a preventive healthcare monitoring system designed to promote early detection and preventive health practices among university students.
+CareU is a preventive healthcare monitoring system designed to promote early detection and preventive health practices among university students.
 The application allows students to record basic health indicators, receive preventive health reminders, and book campus clinic appointments.
 The system supports Sustainable Development Goal 3 (Good Health and Well-Being) by encouraging proactive health monitoring and timely medical consultation.
 
